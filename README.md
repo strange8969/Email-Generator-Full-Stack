@@ -87,7 +87,7 @@ Before you begin, ensure you have the following installed:
 
 3. **Verify backend is running**
    - The server will start on `http://localhost:8080`
-   - Check the health endpoint: `http://localhost:8080/api/email/generate`
+   - Check the application endpoint: `http://localhost:8080/api/email/generate`
 
 ### Frontend Setup (React)
 
