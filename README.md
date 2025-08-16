@@ -161,10 +161,6 @@ Content-Type: application/json
 
 ---
 
-### 🌟 Show Your Support
-
-If this project helped you, please consider giving it a ⭐ on GitHub!
-
 ### 🔮 Future Enhancements
 
 - [ ] Multiple AI model support
