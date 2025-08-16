@@ -1,6 +1,5 @@
 # 🤖 Email Generator - AI-Powered Email Reply Assistant
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
 [![React](https://img.shields.io/badge/React-19.1.1-blue.svg)](https://reactjs.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.4-green.svg)](https://spring.io/projects/spring-boot)
@@ -154,100 +153,13 @@ Content-Type: application/json
 }
 ```
 
-### Available Scripts
-
-#### Frontend Scripts
-```bash
-npm run dev      # Start development server
-npm run build    # Build for production
-npm run preview  # Preview production build
-npm run lint     # Run ESLint
-```
-
-#### Backend Scripts
-```bash
-./mvnw clean install    # Build the project
-./mvnw spring-boot:run  # Run the application
-./mvnw test            # Run tests
-```
-
-## 🤝 Contributing
-
-We welcome contributions to the Email Generator project! Here's how you can help:
-
-### Getting Started
-
-1. **Fork the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Email-Generator-Full-Stack.git
-   ```
-
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-
-3. **Make your changes**
-   - Follow the existing code style and conventions
-   - Add tests for new functionality
-   - Update documentation as needed
-
-4. **Commit your changes**
-   ```bash
-   git commit -m "feat: add amazing new feature"
-   ```
-
-5. **Push to your branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-
-6. **Open a Pull Request**
-
-### Development Guidelines
-
-- **Code Style**: Follow existing patterns and use ESLint/Prettier for frontend
-- **Commit Messages**: Use conventional commit format (`feat:`, `fix:`, `docs:`, etc.)
-- **Testing**: Add unit tests for new features
-- **Documentation**: Update README and code comments as needed
-
-### Issues and Bugs
-
-- Use GitHub Issues to report bugs or request features
-- Provide detailed information including:
-  - Steps to reproduce
-  - Expected vs actual behavior
-  - Environment details
-  - Screenshots if applicable
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 strange8969
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
 ## 📞 Contact
 
 **Developer:** strange8969
 
 - 🐙 **GitHub**: [@strange8969](https://github.com/strange8969)
-- 📧 **Email**: [Your Email Here]
-- 💼 **LinkedIn**: [Your LinkedIn Here]
-- 🌐 **Portfolio**: [Your Portfolio Here]
+- 📧 **Email**: [adityaraj896919@gmail.com]
+- 💼 **LinkedIn**: [[LinkedIn](https://www.linkedin.com/in/aaditya-raj-/)]
 
 ---
 
