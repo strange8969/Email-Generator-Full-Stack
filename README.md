@@ -157,7 +157,7 @@ Content-Type: application/json
 
 - 🐙 **GitHub**: [@strange8969](https://github.com/strange8969)
 - 📧 **Email**: [adityaraj896919@gmail.com]
-- 💼 **LinkedIn**: [[LinkedIn](https://www.linkedin.com/in/aaditya-raj-/)]
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/aaditya-raj-/)]
 
 ---
 
